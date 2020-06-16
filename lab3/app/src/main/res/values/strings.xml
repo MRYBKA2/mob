@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="author_name">Author:</string>
+    <string name="year_name">Year:</string>
+    <string name="title_sel_name">Selected items</string>
+    <string name="sel_items_name">Author: — \nYear: —</string>
+    <string name="fill_all_fields_msg">Fill all fields!</string>
+    <string name="record_was_added_msg">Record was added to DB!</string>
+    <string name="table_is_empty_msg">Table is empty</string>
+    <string name="table_was_cleared_msg">Table was cleared!</string>
+    <string name="db_name">app.db</string>
+    <string name="table_name">records</string>
+    <string name="author_column_name">author_name</string>
+    <string name="year_column_name">year_name</string>
+</resources>
