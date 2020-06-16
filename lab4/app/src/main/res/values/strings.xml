@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="type_text_name">Select content type you want to play:</string>
+    <string name="src_text_name">Select media source:</string>
+    <string name="uri_text_name">Enter the URI:</string>
+    <string name="file_text_name">Select file:</string>
+    <string name="select_btn">Select</string>
+    <string name="play_btn">Play</string>
+    <string name="pause_btn">Pause</string>
+    <string name="resume_btn">Resume</string>
+    <string name="stop_btn">Stop</string>
+    <string name="volume">Volume: </string>
+</resources>
