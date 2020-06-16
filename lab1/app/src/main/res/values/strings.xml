@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="author_name">Author:</string>
+    <string name="year_name">Year:</string>
+    <string name="title_sel_name">Selected items:</string>
+    <string name="sel_items_name">Author: — \nYear: —</string>
+    <string name="fill_all_fields_msg">Fill all fields!</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="authors">
+        <item></item>
+        <item>Tom Wales</item>
+        <item>Jack Thorens</item>
+        <item>Tony Cipriani</item>
+        <item>Phillip Blue</item>
+    </string-array>
+</resources>
